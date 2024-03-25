@@ -1,3 +1,11 @@
 TEXT_PROMPT 1
 - 10 technological developments that will happen in 20 years
     ->I used that prompt to have an idea about what to write for events in the next 30 years 
+
+TEXT_PROMPT 2
+- I have a website that predicts technological developments that will have a big impact on humanity in the future, 
+Our goal is to inform people of what to expect from the future and also spread awareness about the future of this planet all around the world.  
+Our viewers can reach us from instagram, linkedin or email to ask their questions or directly from ou website. We think by knowing what to expect in the future, 
+we can better direct our actions and decide what to do now
+Can you generate 5 questions and the give their answers for the FAQ section of our web page?
+    ->for the FAQ section of the web page
