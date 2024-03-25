@@ -42,11 +42,12 @@ PROMPT 3
 this looks nice, but could you please adjust the Gallery section such that it forms a 2x3 grid, I mean it includes 2 seperate sections both of which includes 3 items
 
 PROMPT 4
-I will give you my html file and want you to write a css file that changes the style of the html file as I want, did you understand?
+Okay, I made adjustment on the file in accordance with what we discussed here. Now, I will give you my html file and want you to write a css file that changes the style of the html file as I want, 
+did you understand?
 
 PROMPT 5
 - First, I want every card to have 2px black border on all sides
-- Also make the margin of every div including these cards 4px
+- Also make the margin of every div including these cards 2px
 - I want the header section to a dark background and texts with white font
 - The text "In the next 30 years" should be centered
 - The Questions in the "FAQ Section"
