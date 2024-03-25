@@ -1,0 +1,62 @@
+PROMPT 1
+Act as a front-end web developer
+You'll code a website using the tools and obeying the rules listed below:
+- Bootstrap framework which uses CDN for HTML, CSS and JavaScript
+- The site should be responsive and mobile-friendly
+- The site will use the latest distribution of Bootstrap
+- You'll give HTML, CSS and JavaScript codes seperately
+- Also, the site should have a navigation bar linking to headings in the page
+- You'll use semantic html elements (header, main, nav, section, article, aside, footer) in the html code
+- You'll not give explanations for any code
+- Use random images for every image section in the page you'll build
+
+Did you understand everything I said clearly? If you do say: "Yes!"
+
+PROMPT 2
+Okay, here is a detailed description of the page I want to build:
+
+Header section
+- In the header section, you'll include a random image logo and links to 3 pages: HOME, CONTACT and ABOUT
+
+Gallery Section
+- after the header, you'll build a 2x3 photo gallery section, the first row will "In 10 years", the other row will include "In 20 years"
+definition: every entry in a row will be called a card
+- within every card  you'll include a name, probability in percent, and  estimated year subsections
+- For every card
+    - you'll include a name, probability in percent, and  estimated year subsections
+
+FAQ Section
+- you'll build an FAQ section
+- It will answer 5 most frequently asked questions for the website 
+- I want you to generate questions and their answers yourself
+
+Footer Section
+- Footer section will be a classic bootstrap footer
+- it will include links to social media pages: Linkedin, Instagram, Twitter and Facebook
+- Also, It will include links to HOME, CONTACT and ABOUT pages
+- Lastly, it will include a small contact section in which you type your message, give your e-mail adress and press a submit button to submit your message 
+
+IMPORTANT: Please use bootstrap templates  and add my specific instructions to these templates rather than only applying what I said. This is very important
+
+PROMPT 3
+this looks nice, but could you please adjust the Gallery section such that it forms a 2x3 grid, I mean it includes 2 seperate sections both of which includes 3 items
+
+PROMPT 4
+I will give you my html file and want you to write a css file that changes the style of the html file as I want, did you understand?
+
+PROMPT 5
+- First, I want every card to have 2px black border on all sides
+- Also make the margin of every div including these cards 4px
+- I want the header section to a dark background and texts with white font
+- The text "In the next 30 years" should be centered
+- The Questions in the "FAQ Section"
+    - will have dark background and white text
+- The Answers in the "FAQ Section"
+    - will have a white background but black, italic font
+- The footer section
+    - Background of the footer section will be dark
+By the way: What I mean by card is the a division that holds an image of a specific event in the future
+->warn me if you didn't understand what I mean by card, but if you did: generate the style.css file
+
+PROMPT 6
+Can you also align the h2 "In the next 30 years"  text to center and make it bigger

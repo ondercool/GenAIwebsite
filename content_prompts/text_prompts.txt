@@ -1,0 +1,3 @@
+TEXT_PROMPT 1
+- 10 technological developments that will happen in 20 years
+    ->I used that prompt to have an idea about what to write for events in the next 30 years 

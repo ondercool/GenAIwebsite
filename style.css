@@ -1,0 +1,33 @@
+/* Header Section */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+/* Gallery Section */
+.card {
+    border: 2px solid black;
+}
+
+/* FAQ Section */
+#faq .accordion-header {
+    background-color: #333;
+    color: white;
+}
+
+#faq .accordion-body {
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
+
+/* Footer Section */
+footer {
+    background-color: #333;
+    color: white;
+}
+#gallery h2 {
+    text-align: center;
+    font-size: 48px; /* Adjust the font size as needed */
+}
